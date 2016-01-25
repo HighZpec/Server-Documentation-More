@@ -3,5 +3,8 @@ Providing a short description is never an easy task, however it's definitely req
 
 > *Please consider checking back here frequently, as updates should be published regularly.*
 
+### Wiki & Documentation
+You can find all information regarding gameplay on the server using the link http://wiki.syszee.me/ . Whether it be commands, ranking information, rules, warps, etc - you should find all useful information there. If you have any questions **DO NOT** ask them in-game, you will simply be directed to the wiki. If you've gaurenteed that you've already read through the wiki and just cannot find an answer, as a helper in game. 
+
 
 
